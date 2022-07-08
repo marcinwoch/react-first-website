@@ -1,0 +1,7 @@
+.features {
+    display: grid;
+    margin: 3px;
+    grid-template-columns: auto auto auto;
+    column-gap: 3px;
+    row-gap: 3px;
+}

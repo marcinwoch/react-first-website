@@ -1,0 +1,32 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    background-color: #eeeeee;
+}
+
+.card img {
+    width: 100px;
+}
+
+.card h1 {
+    margin: 30px 0 0 0;
+}
+
+.card p {
+    margin: 30px 0;
+}
+
+.card a {
+    padding: 15px;
+    font-size: 14px;
+    background-color: #dddddd;
+    color: rgb(78, 78, 78);
+    text-decoration: none;
+}
+
+.card a:hover {
+    background-color: #20232a;
+    color: #dddddd;
+}

@@ -1,0 +1,9 @@
+@import "../css/navbar.css";
+@import "../css/features.css";
+@import "../css/card.css";
+@import "../css/footer.css";
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
